@@ -1,126 +1,160 @@
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--              m4ds1ck — GitHub Profile README               -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=200&text=m4ds1ck&fontColor=00ff41&fontSize=60&fontAlignY=45&animation=fadeIn&desc=%3E_%20root%40github%20~%20%2F%20%24&descFontColor=00cc33&descSize=18&descAlignY=68&stroke=00ff41&strokeWidth=1" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=40&lines=%5B+SYSTEM+INITIALIZING...+%5D;%3E+whoami+%3A%3A+m4ds1ck;%3E+status+%3A%3A+always+learning%2C+never+stopping;%3E+mission+%3A%3A+break+things+%26+build+better+ones;%3E+skills+%3A%3A+full+stack+%7C+sec+%7C+devops;%5B+ACCESS+GRANTED+%5D+%E2%96%88)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=m4ds1ck&color=00ff41&style=flat-square&label=%3E_+VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/m4ds1ck?label=%3E_+FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d0d0d)](https://github.com/m4ds1ck)
-![GitHub User's stars](https://img.shields.io/github/stars/m4ds1ck?affiliations=OWNER&label=%3E_+STARS&style=flat-square&color=00ff41&labelColor=0d0d0d)
-
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:003300,100:00ff41&height=160&text=m4ds1ck&fontColor=00ff41&fontSize=55&animation=blinking&fontAlignY=55&stroke=00ff41&strokeWidth=2&desc=&descAlignY=75" />
 </div>
 
 <br>
 
+<div align="center">
+  <a href="https://github.com/m4ds1ck">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Security+Researcher+%F0%9F%94%90;CTF+Player+%7C+HTB+%7C+THM;Open+Source+Contributor+%F0%9F%8C%BF;Coffee-Powered+Coder+%E2%98%95" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=m4ds1ck&style=flat-square&color=00ff41&label=VISITORS&labelColor=0d0d0d" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/m4ds1ck?style=flat-square&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/m4ds1ck?affiliations=OWNER&style=flat-square&color=00ff41&labelColor=0d0d0d&label=STARS" />
+</div>
+
 ---
 
-```
-███╗   ███╗ ██╗  ██╗ ██████╗  ███████╗ ██╗  ██████╗ ██╗  ██╗
-████╗ ████║ ██║  ██║ ██╔══██╗ ██╔════╝ ██║ ██╔════╝ ██║ ██╔╝
-██╔████╔██║ ███████║ ██║  ██║ ███████╗ ██║ ██║      █████╔╝
-██║╚██╔╝██║ ╚════██║ ██║  ██║ ╚════██║ ██║ ██║      ██╔═██╗
-██║ ╚═╝ ██║      ██║ ██████╔╝ ███████║ ██║ ╚██████╗ ██║  ██╗
-╚═╝     ╚═╝      ╚═╝ ╚═════╝  ╚══════╝ ╚═╝  ╚═════╝ ╚═╝  ╚═╝
-```
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; `whoami`
 
----
-
-<!-- ═══════════════════════════ TERMINAL ABOUT ═══════════════════════════ -->
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
 
 ```bash
-┌──(m4ds1ck㉿github)-[~]
-└─$ cat about.txt
+┌──(m4ds1ck㉿kali)-[~]
+└─$ cat /etc/passwd | grep m4ds1ck
 
-  > Name      : m4ds1ck
-  > Location  : 🌐 The Internet
-  > Coffee    : ████████████ 100%
-  > Sleep     : ██░░░░░░░░░░ 15%
-
-┌──(m4ds1ck㉿github)-[~]
-└─$ _
+m4ds1ck:x:1337:1337::/home/m4ds1ck:/bin/zsh
 ```
 
-<br clear="right"/>
+```python
+class m4ds1ck:
+    name       = "m4ds1ck"
+    location   = "🌍 Marrakesh, Morocco"
+    languages  = ["Python", "JS/TS", "C", "Bash", "Rust"]
+    interests  = ["Web Dev", "Pentesting", "CTF", "OSS"]
+    editor     = "NeoVim 🖤"
+    os         = "Arch Linux (btw)"
+    coffee     = True  # always
+```
 
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+<br clear="right" />
 
-## `~/stats --verbose`
+---
+
+## ⚡ &nbsp; `tech --stack`
 
 <div align="center">
 
-<a href="https://github.com/m4ds1ck">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=m4ds1ck&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ds1ck&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m4ds1ck&theme=matrix&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakNum=00ff41&sideNums=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=444444)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br><sub><b>Rust</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br><sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br><sub><b>Go</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="K8s" /><br><sub><b>K8s</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" /><br><sub><b>Postgres</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br><sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="NeoVim" /><br><sub><b>NeoVim</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-
-## `~/trophies --show`
+## 📊 &nbsp; `git log --stat`
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4ds1ck&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ds1ck&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&langs_count=8" height="170" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=m4ds1ck&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=m4ds1ck&theme=matrix&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakNum=00ff41&sideNums=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=555555" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
-
-## `~/logs --graph`
+## 🏆 &nbsp; `achievements --unlocked`
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m4ds1ck&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=%3E_%20m4ds1ck%27s%20commit%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=m4ds1ck&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+## 📈 &nbsp; `git log --all --oneline --graph`
 
-## `~/snake --run`
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4ds1ck&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00cc33&area=true&area_color=003300&hide_border=true" />
+</div>
+
+---
+
+## 🐍 &nbsp; `watch contributions | snake`
 
 <div align="center">
 
 <!--
-  ⚙️  ONE-TIME SETUP (takes ~2 min):
+  ⚙️  ONE-TIME SETUP — create .github/workflows/snake.yml with:
 
-  1. Repo: github.com/m4ds1ck/m4ds1ck  (must be public)
-  2. File: .github/workflows/snake.yml
-  3. Content:
-  ──────────────────────────────────────
   name: Generate Snake Animation
   on:
     schedule:
       - cron: "0 */12 * * *"
     workflow_dispatch:
     push:
-      branches: [main]
+      branches:
+        - main
   jobs:
     generate:
       runs-on: ubuntu-latest
@@ -137,58 +171,64 @@
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ──────────────────────────────────────
-  4. Actions tab → run once manually → done 🐍
+
+  Then: Actions → Run workflow manually once 🐍
 -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4ds1ck/m4ds1ck/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4ds1ck/m4ds1ck/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/m4ds1ck/m4ds1ck/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/m4ds1ck/m4ds1ck/output/github-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
+## 🚀 &nbsp; `ls -la ./projects`
 
-## `~/projects --featured`
-
-<!-- 🎨 Replace YOUR_REPO_1 / YOUR_REPO_2 with your actual repo names -->
+<!-- Replace YOUR_REPO_1 / YOUR_REPO_2 with your actual repos -->
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4ds1ck&repo=YOUR_REPO_1&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00ff41)](https://github.com/m4ds1ck/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4ds1ck&repo=YOUR_REPO_2&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00ff41)](https://github.com/m4ds1ck/YOUR_REPO_2)
-
+  <a href="https://github.com/m4ds1ck/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4ds1ck&repo=YOUR_REPO_1&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00ff41" />
+  </a>
+  <a href="https://github.com/m4ds1ck/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4ds1ck&repo=YOUR_REPO_2&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00ff41" />
+  </a>
 </div>
 
 ---
 
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-
-## `~/contact --list`
+## 🌐 &nbsp; `curl -s https://m4ds1ck/socials`
 
 <div align="center">
-
-<!-- 🎨 Replace links with your actual profiles -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mahmoud-moukouch-b3ab0430a))
-[![Twitter](https://img.shields.io/badge/Twitter-00cc33?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/YOUR_TWITTER)
-[![Discord](https://img.shields.io/badge/Discord-00ff41?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.com/users/YOUR_DISCORD)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-00cc33?style=for-the-badge&logo=hackthebox&logoColor=000000)](https://app.hackthebox.com/profile/YOUR_HTB)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-00ff41?style=for-the-badge&logo=tryhackme&logoColor=000000)](https://tryhackme.com/p/YOUR_THM)
-[![Gmail](https://img.shields.io/badge/Email-00cc33?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:YOUR_EMAIL)
-
+  <a href="https://www.linkedin.com/in/mahmoud-moukouch-b3ab0430a">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d0d0d" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=twitter&logoColor=00ff41&labelColor=0d0d0d" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=00ff41&labelColor=0d0d0d" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/YOUR_HTB">
+    <img src="https://img.shields.io/badge/HackTheBox-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d0d0d" />
+  </a>
+  <a href="https://tryhackme.com/p/YOUR_THM">
+    <img src="https://img.shields.io/badge/TryHackMe-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d0d0d" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d0d0d" />
+  </a>
 </div>
 
----
+<br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1500&color=00FF4166&center=true&vCenter=true&width=500&lines=%22The+quieter+you+become%2C+the+more+you+hear.%22;%22Hack+the+planet.%22;%5Bsession+closed%5D" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+the+quieter+you+become%2C+the+more+you+are+able+to+hear;%3E+hack+the+planet+%F0%9F%8C%8D;%3E+%5B+session+terminated+%5D)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=80&section=footer&reversal=false" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=80&section=footer" />
 </div>
