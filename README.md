@@ -47,75 +47,14 @@
 
   > Name      : m4ds1ck
   > Location  : 🌐 The Internet
-  > Role      : Full Stack Dev / Hacker Mindset
-  > OS        : Arch Linux btw 🖤
-  > Editor    : NeoVim (of course)
   > Coffee    : ████████████ 100%
   > Sleep     : ██░░░░░░░░░░ 15%
-
-┌──(m4ds1ck㉿github)-[~]
-└─$ cat interests.txt
-
-  > Breaking things to understand them
-  > Building tools nobody asked for
-  > CTF challenges & reverse engineering
-  > Contributing to open source
-  > Automating everything possible
 
 ┌──(m4ds1ck㉿github)-[~]
 └─$ _
 ```
 
 <br clear="right"/>
-
----
-
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-
-## `~/skills --list-all`
-
-<div align="center">
-
-**[ LANGUAGES ]**
-
-![C](https://img.shields.io/badge/C-00ff41?style=for-the-badge&logo=c&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-00cc33?style=for-the-badge&logo=cplusplus&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00cc33?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-00ff41?style=for-the-badge&logo=typescript&logoColor=000000)
-![Rust](https://img.shields.io/badge/Rust-00cc33?style=for-the-badge&logo=rust&logoColor=000000)
-![Bash](https://img.shields.io/badge/Bash-00ff41?style=for-the-badge&logo=gnubash&logoColor=000000)
-![Assembly](https://img.shields.io/badge/ASM-00cc33?style=for-the-badge&logo=assemblyscript&logoColor=000000)
-
-**[ FRONTEND ]**
-
-![React](https://img.shields.io/badge/React-00ff41?style=for-the-badge&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-00cc33?style=for-the-badge&logo=nextdotjs&logoColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-00ff41?style=for-the-badge&logo=tailwindcss&logoColor=000000)
-![Three.js](https://img.shields.io/badge/Three.js-00cc33?style=for-the-badge&logo=threedotjs&logoColor=000000)
-
-**[ BACKEND & INFRA ]**
-
-![Node.js](https://img.shields.io/badge/Node.js-00ff41?style=for-the-badge&logo=nodedotjs&logoColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-00cc33?style=for-the-badge&logo=fastapi&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-00ff41?style=for-the-badge&logo=docker&logoColor=000000)
-![Kubernetes](https://img.shields.io/badge/K8s-00cc33?style=for-the-badge&logo=kubernetes&logoColor=000000)
-![Nginx](https://img.shields.io/badge/Nginx-00ff41?style=for-the-badge&logo=nginx&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00cc33?style=for-the-badge&logo=postgresql&logoColor=000000)
-![Redis](https://img.shields.io/badge/Redis-00ff41?style=for-the-badge&logo=redis&logoColor=000000)
-
-**[ SECURITY & TOOLS ]**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-00ff41?style=for-the-badge&logo=kalilinux&logoColor=000000)
-![Metasploit](https://img.shields.io/badge/Metasploit-00cc33?style=for-the-badge&logo=metasploit&logoColor=000000)
-![Wireshark](https://img.shields.io/badge/Wireshark-00ff41?style=for-the-badge&logo=wireshark&logoColor=000000)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-00cc33?style=for-the-badge&logo=burpsuite&logoColor=000000)
-![NeoVim](https://img.shields.io/badge/NeoVim-00ff41?style=for-the-badge&logo=neovim&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-00cc33?style=for-the-badge&logo=git&logoColor=000000)
-
-</div>
-
----
 
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 
