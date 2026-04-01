@@ -1,159 +1,180 @@
-<!-- ==================== 🎨 CUSTOMIZE: Replace YOUR_USERNAME with your GitHub username ==================== -->
-<!-- ==================== 🎨 CUSTOMIZE: Replace YOUR_NAME with your name ==================== -->
+<!-- ██████████████████████████████████████████████████████████ -->
+<!--              m4ds1ck — GitHub Profile README               -->
+<!-- ██████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED HEADER                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=200&text=m4ds1ck&fontColor=00ff41&fontSize=60&fontAlignY=45&animation=fadeIn&desc=%3E_%20root%40github%20~%20%2F%20%24&descFontColor=00cc33&descSize=18&descAlignY=68&stroke=00ff41&strokeWidth=1" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YOUR_NAME&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
+</div>
 
-<!-- ─────────────── 🎨 CUSTOMIZE: Edit the lines below to change your animated titles ─────────────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+YOUR_NAME+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1;Welcome+to+my+GitHub+profile!+%E2%9C%A8)](https://git.io/typing-svg)
+<div align="center">
 
-<!-- ─────────────── Profile views counter ─────────────── -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6ad3f7&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=6ad3f7)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=40&lines=%5B+SYSTEM+INITIALIZING...+%5D;%3E+whoami+%3A%3A+m4ds1ck;%3E+status+%3A%3A+always+learning%2C+never+stopping;%3E+mission+%3A%3A+break+things+%26+build+better+ones;%3E+skills+%3A%3A+full+stack+%7C+sec+%7C+devops;%5B+ACCESS+GRANTED+%5D+%E2%96%88)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=m4ds1ck&color=00ff41&style=flat-square&label=%3E_+VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/m4ds1ck?label=%3E_+FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d0d0d)](https://github.com/m4ds1ck)
+![GitHub User's stars](https://img.shields.io/github/stars/m4ds1ck?affiliations=OWNER&label=%3E_+STARS&style=flat-square&color=00ff41&labelColor=0d0d0d)
+
+</div>
+
+<br>
+
+---
+
+```
+███╗   ███╗ ██╗  ██╗ ██████╗  ███████╗ ██╗  ██████╗ ██╗  ██╗
+████╗ ████║ ██║  ██║ ██╔══██╗ ██╔════╝ ██║ ██╔════╝ ██║ ██╔╝
+██╔████╔██║ ███████║ ██║  ██║ ███████╗ ██║ ██║      █████╔╝
+██║╚██╔╝██║ ╚════██║ ██║  ██║ ╚════██║ ██║ ██║      ██╔═██╗
+██║ ╚═╝ ██║      ██║ ██████╔╝ ███████║ ██║ ╚██████╗ ██║  ██╗
+╚═╝     ╚═╝      ╚═╝ ╚═════╝  ╚══════╝ ╚═╝  ╚═════╝ ╚═╝  ╚═╝
+```
+
+---
+
+<!-- ═══════════════════════════ TERMINAL ABOUT ═══════════════════════════ -->
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```bash
+┌──(m4ds1ck㉿github)-[~]
+└─$ cat about.txt
+
+  > Name      : m4ds1ck
+  > Location  : 🌐 The Internet
+  > Role      : Full Stack Dev / Hacker Mindset
+  > OS        : Arch Linux btw 🖤
+  > Editor    : NeoVim (of course)
+  > Coffee    : ████████████ 100%
+  > Sleep     : ██░░░░░░░░░░ 15%
+
+┌──(m4ds1ck㉿github)-[~]
+└─$ cat interests.txt
+
+  > Breaking things to understand them
+  > Building tools nobody asked for
+  > CTF challenges & reverse engineering
+  > Contributing to open source
+  > Automating everything possible
+
+┌──(m4ds1ck㉿github)-[~]
+└─$ _
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+
+## `~/skills --list-all`
+
+<div align="center">
+
+**[ LANGUAGES ]**
+
+![C](https://img.shields.io/badge/C-00ff41?style=for-the-badge&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-00cc33?style=for-the-badge&logo=cplusplus&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00cc33?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-00ff41?style=for-the-badge&logo=typescript&logoColor=000000)
+![Rust](https://img.shields.io/badge/Rust-00cc33?style=for-the-badge&logo=rust&logoColor=000000)
+![Bash](https://img.shields.io/badge/Bash-00ff41?style=for-the-badge&logo=gnubash&logoColor=000000)
+![Assembly](https://img.shields.io/badge/ASM-00cc33?style=for-the-badge&logo=assemblyscript&logoColor=000000)
+
+**[ FRONTEND ]**
+
+![React](https://img.shields.io/badge/React-00ff41?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-00cc33?style=for-the-badge&logo=nextdotjs&logoColor=000000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-00ff41?style=for-the-badge&logo=tailwindcss&logoColor=000000)
+![Three.js](https://img.shields.io/badge/Three.js-00cc33?style=for-the-badge&logo=threedotjs&logoColor=000000)
+
+**[ BACKEND & INFRA ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-00ff41?style=for-the-badge&logo=nodedotjs&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-00cc33?style=for-the-badge&logo=fastapi&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-00ff41?style=for-the-badge&logo=docker&logoColor=000000)
+![Kubernetes](https://img.shields.io/badge/K8s-00cc33?style=for-the-badge&logo=kubernetes&logoColor=000000)
+![Nginx](https://img.shields.io/badge/Nginx-00ff41?style=for-the-badge&logo=nginx&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00cc33?style=for-the-badge&logo=postgresql&logoColor=000000)
+![Redis](https://img.shields.io/badge/Redis-00ff41?style=for-the-badge&logo=redis&logoColor=000000)
+
+**[ SECURITY & TOOLS ]**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-00ff41?style=for-the-badge&logo=kalilinux&logoColor=000000)
+![Metasploit](https://img.shields.io/badge/Metasploit-00cc33?style=for-the-badge&logo=metasploit&logoColor=000000)
+![Wireshark](https://img.shields.io/badge/Wireshark-00ff41?style=for-the-badge&logo=wireshark&logoColor=000000)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-00cc33?style=for-the-badge&logo=burpsuite&logoColor=000000)
+![NeoVim](https://img.shields.io/badge/NeoVim-00ff41?style=for-the-badge&logo=neovim&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-00cc33?style=for-the-badge&logo=git&logoColor=000000)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 
-## 🧑‍💻 About Me
-
-```yaml
-name:       YOUR_NAME
-located_in: YOUR_CITY, YOUR_COUNTRY        # 🎨 CUSTOMIZE
-current_job: YOUR_JOB_TITLE                # 🎨 CUSTOMIZE
-education:
-  - "YOUR_DEGREE @ YOUR_UNIVERSITY"        # 🎨 CUSTOMIZE
-
-fields_of_interest:
-  - "Web Development"
-  - "Cloud Architecture"
-  - "Machine Learning"
-  - "Open Source"
-
-currently_learning: ["YOUR_TECH_1", "YOUR_TECH_2"]   # 🎨 CUSTOMIZE
-will_learn:         ["YOUR_NEXT_TECH"]                # 🎨 CUSTOMIZE
-hobbies:            ["Coding", "Gaming", "Coffee ☕"] # 🎨 CUSTOMIZE
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-<!-- ─────────────── 🎨 CUSTOMIZE: Remove or add badges at https://shields.io ─────────────── -->
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
+## `~/stats --verbose`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<a href="https://github.com/m4ds1ck">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=m4ds1ck&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ds1ck&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=6ad3f7&ring=6ad3f7&fire=ff9900&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6ad3f7&sideLabels=6ad3f7&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m4ds1ck&theme=matrix&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakNum=00ff41&sideNums=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=444444)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TROPHY CABINET                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## `~/trophies --show`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m4ds1ck&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ACTIVITY GRAPH                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
 
-## 📈 Contribution Graph
+## `~/logs --graph`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=6ad3f7&line=6ad3f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m4ds1ck&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=%3E_%20m4ds1ck%27s%20commit%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       🐍 SNAKE GAME                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
-## 🐍 My Contributions Snake
+## `~/snake --run`
 
 <div align="center">
 
 <!--
-  ⚙️  SETUP REQUIRED — do this once to activate the snake:
+  ⚙️  ONE-TIME SETUP (takes ~2 min):
 
-  1. Create a public repo named exactly: YOUR_USERNAME  (same as your GitHub username)
-  2. Inside that repo, create: .github/workflows/snake.yml
-  3. Paste this content into that file:
-  ──────────────────────────────────────────────
+  1. Repo: github.com/m4ds1ck/m4ds1ck  (must be public)
+  2. File: .github/workflows/snake.yml
+  3. Content:
+  ──────────────────────────────────────
   name: Generate Snake Animation
   on:
     schedule:
@@ -177,63 +198,49 @@ hobbies:            ["Coding", "Gaming", "Coffee ☕"] # 🎨 CUSTOMIZE
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ──────────────────────────────────────────────
-  4. Go to Actions → run the workflow manually once.
-  5. The snake will now auto-update every 12 hours. 🎉
+  ──────────────────────────────────────
+  4. Actions tab → run once manually → done 🐍
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4ds1ck/m4ds1ck/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4ds1ck/m4ds1ck/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/m4ds1ck/m4ds1ck/output/github-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
 
-## 🚀 Featured Projects
+## `~/projects --featured`
 
-<!-- 🎨 CUSTOMIZE: Replace YOUR_REPO_1 and YOUR_REPO_2 with your actual repo names -->
+<!-- 🎨 Replace YOUR_REPO_1 / YOUR_REPO_2 with your actual repo names -->
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4ds1ck&repo=YOUR_REPO_1&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00ff41)](https://github.com/m4ds1ck/YOUR_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4ds1ck&repo=YOUR_REPO_2&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00ff41)](https://github.com/m4ds1ck/YOUR_REPO_2)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT WITH ME                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
-## 🤝 Connect With Me
+## `~/contact --list`
 
 <div align="center">
 
-<!-- 🎨 CUSTOMIZE: Replace links with your actual profiles -->
+<!-- 🎨 Replace links with your actual profiles -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-00cc33?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/YOUR_TWITTER)
+[![Discord](https://img.shields.io/badge/Discord-00ff41?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.com/users/YOUR_DISCORD)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-00cc33?style=for-the-badge&logo=hackthebox&logoColor=000000)](https://app.hackthebox.com/profile/YOUR_HTB)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-00ff41?style=for-the-badge&logo=tryhackme&logoColor=000000)](https://tryhackme.com/p/YOUR_THM)
+[![Gmail](https://img.shields.io/badge/Email-00cc33?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -241,8 +248,8 @@ hobbies:            ["Coding", "Gaming", "Coffee ☕"] # 🎨 CUSTOMIZE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+the+quieter+you+become%2C+the+more+you+are+able+to+hear;%3E+hack+the+planet+%F0%9F%8C%8D;%3E+%5B+session+terminated+%5D)](https://git.io/typing-svg)
 
-**⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with ❤️**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=80&section=footer&reversal=false" />
 
 </div>
