@@ -174,7 +174,7 @@
 
 <!-- 🎨 Replace links with your actual profiles -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mahmoud-moukouch-b3ab0430a))
 [![Twitter](https://img.shields.io/badge/Twitter-00cc33?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/YOUR_TWITTER)
 [![Discord](https://img.shields.io/badge/Discord-00ff41?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.com/users/YOUR_DISCORD)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-00cc33?style=for-the-badge&logo=hackthebox&logoColor=000000)](https://app.hackthebox.com/profile/YOUR_HTB)
